@@ -1,0 +1,5 @@
+1: Mi amá
+2: Mi apá
+3: Mi perro tuerto
+4: Mi gato pirata
+5: El pericote de la cocina

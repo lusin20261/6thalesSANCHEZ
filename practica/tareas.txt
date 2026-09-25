@@ -1,0 +1,5 @@
+1: Lavar mi ropa
+2: Lustrar al perro
+3: Sacar a pasear a los zapatos
+4: Ayudar a mi apá
+5: Sacar buenas notas en tesina
